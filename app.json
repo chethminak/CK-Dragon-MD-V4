@@ -16,7 +16,7 @@
     "env": {
         "OWNER_NAME": {
             "description": "Name of Bot Owner",
-            "value": "Mr.Ameesha"
+            "value": "𝘾𝙝𝙚𝙩𝙝𝙢𝙞𝙣𝙖 𝙆𝙖𝙫𝙞𝙨𝙝𝙖𝙣"
         },
         "ALIVE_MESSAGE": {
             "description": "Alive message for bot",
@@ -94,10 +94,10 @@
         },
         "OWNER_NUMBER": {
             "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-            "value": "94767453646"
+            "value": "94722770762"
         },
         "SESSION_ID": {
-            "description": "Please put your SESSION_ID here, Get from - https://replit.com/@AmiyaProgrammer/Dragon-MD-V4-QR?v=1"
+            "description": "DragonMD;;;ConkedHinge"
         },
         "OPENAI_API_KEY": {
             "description": "Please put your OPENAI api key here.Get it from beta.openai.com ",
@@ -106,12 +106,12 @@
         },
         "MONGODB_URI": {
             "description": "A secret String for Mongodb Connection.(Replace for better experience)",
-            "value": "mongodb+srv://darkdragonv4:ameesha@cluster0.ttcxkqt.mongodb.net",
+            "value": "mongodb://ufg4twlnvhm8ijkh4596:LZd8gjOsvr4BkHcBBoy@bg2sm6uafibzcnucz0r7-mongodb.services.clever-cloud.com:2388/bg2sm6uafibzcnucz0r7",
             "required" :false
         },
         "THEME": {
             "description": "Put the theme name you want to use. Avilable themes are SI , EN",
-            "value": "SI"
+            "value": "EN"
         },
         "WORKTYPE": {
             "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
